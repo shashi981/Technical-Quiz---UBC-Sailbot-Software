@@ -1,0 +1,10 @@
+1.
+$ git clone https://bitbucket.ubcsailbot.org/projects/TOOLS/repos/bash-settings
+
+
+2. <make sure you are in the cloned repository, you can do this by the command "pwd">
+
+$ git add TestWindAngles.h
+$ git commit -m "Tuned wind angles and added unit tests"
+
+
